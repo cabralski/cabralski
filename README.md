@@ -1,7 +1,7 @@
-### Hi!
+<img src="https://raw.githubusercontent.com/mathrs/mathrs/master/logo.png" width="256px" height="256px">
 
-I'm Pedro, I like computers, calculators, programming from **High Level Assembler** to **JavaScript using Deno** and **Unsafe Rust**, microprocessors and books. Check out my website at https://cabral.mat.br/!
+## Hi!
 
-#### Fun Facts
+I'm Pedro Cabral. I like computers, calculators, microprocessors, books, hacking, and programming from **High Level Assembly** to **Julia**, **Python**, and **Rust**. Check out my website at [cabral.mat.br](cabral.mat.br) for blog posts, code and art..!
 
-- I have an irrational fear on black holes.
+Currently, I'm working on the (https://github.com/mathrs/mathrs)[mathrs] project as my main focus.
