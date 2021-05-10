@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/mathrs/mathrs/master/logo.png" width="128px" height="128px">
+<img src="https://raw.githubusercontent.com/mathrs/mathrs/master/logo.png" width="256px" height="256px">
 
 ## Hi!
 
-I'm Pedro Cabral. I like computers, calculators, microprocessors, books, hacking, and programming from **High Level Assembly** to **Julia**, **Python**, and **Rust**. Check out my website at [cabral.dev.br](https://cabral.dev.br).
+My name is Pedro Cabral. I'm 18 years old. I code since I was 9 years old (it has been approximately 9 years since then). I'm deeply passionate about computer science, mathematics and philosophy.
 
 I've worked as a Data Scientist at [Looqbox](https://www.looqbox.com/en), and on [Wolfram Research Inc.](https://wolfram.com) as an Intern Consultant in 2020. I've wrote scientific articles and done data analysis at the Astrophysics and Cosmology Laboratory at [IFCE](https://ifce.edu.br).
 
