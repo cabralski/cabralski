@@ -8,4 +8,4 @@ I've worked as a Data Scientist at [Looqbox](https://www.looqbox.com/en), and on
 
 I've participated on many academic olympiads (informatics, robotics, mathematics, rockets, and satellites), I have a silver medal at the [Brazillian Satellite Olympiad of 2020](https://obsat.org.br/). I like many topics, ranging from astronomy and astrophysics to philosophy and psychology.
 
-I can code in many languages. My favorite languages are: **C**, **Rust**, **Python**, **Julia**, **Python**, **APL**, **Haskell**, and **Common Lisp**.
+I can code in many languages. My favorite languages are: **Rust**, **Python**, **Julia**, **C**, **APL**, **Haskell**, and **Common Lisp**.
