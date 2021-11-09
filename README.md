@@ -2,7 +2,7 @@
 
 ## Hi!
 
-My name is Pedro Cabral. I'm 18 years old. I code since I was 9 years old (it has been approximately 9 years since then). I'm deeply passionate about computer science, mathematics and philosophy.
+My name is Pedro Cabral. I'm 19 years old. I code since I was 9 years old (it has been approximately 9 years since then). I'm deeply passionate about computer science, mathematics and philosophy.
 
 I've worked as a Data Scientist at [Looqbox](https://www.looqbox.com/en), and on [Wolfram Research Inc.](https://wolfram.com) as an Intern Consultant in 2020. I've wrote scientific articles and done data analysis at the Astrophysics and Cosmology Laboratory at [IFCE](https://ifce.edu.br).
 
