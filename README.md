@@ -6,4 +6,5 @@ I've participated on many academic olympiads (informatics, robotics, mathematics
 
 
 Currently, these are all of my **"Staff Picks"** articles in the [Wolfram Community](https://community.wolfram.com/web/pedrogcabral):
-![https://community.wolfram.com/web/pedrogcabral](https://i.imgur.com/hCqvSr3.png)
+
+<a href="https://community.wolfram.com/web/pedrogcabral"><img src="https://i.imgur.com/hCqvSr3.png" width="50%"/></a>
