@@ -1,6 +1,6 @@
-👋🏻 Hi! My name is **Pedro Cabral**. I'm 19 years old. 👋🏻
+👋🏻 Hi! My name is **Pedro Cabral**. 👋🏻
 
-I code since I was **9 years old** (it has been approximately 9 years since then).
+I code since I was **9 years old** (it has been approximately 11 years since then).
 
 I've previously worked as a **Data Scientist** at [Looqbox](https://www.looqbox.com/en), and as an as an **Intern Consultant** at [Wolfram Research](https://wolfram.com). I've wrote scientific articles and done data analysis at the *Astrophysics and Cosmology Laboratory* at [IFCE](https://ifce.edu.br).
 
